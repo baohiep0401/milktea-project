@@ -11,9 +11,9 @@ Một ứng dụng web full-stack hiện đại giúp quản lý quán trà sữ
 
 ## 🎥 Video Demo
 
-[Xem video demo](video_demo.webm)
+[Xem video demo trên YouTube](https://www.youtube.com/watch?v=RzO9qFbhss8)
 
-## 🌟 Tính Năng Nổi Bật
+## �� Tính Năng Nổi Bật
 
 ### Quản Lý Người Dùng
 - 🔐 Đăng nhập đa nền tảng (Google, Facebook)
